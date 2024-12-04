@@ -2,6 +2,10 @@
     background-color: #002d41;
     padding: 2px;
     text-align: center;
+    /* position: fixed; */
+    position: fixed;
+        top: 0;
+        width: 100%;
 }
 
 .header-content {

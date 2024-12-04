@@ -1,6 +1,7 @@
 .social {
-    display: flex;
-    justify-content: flex-end;
-    align-items: center;
     z-index: 1;
+    position: absolute;
+    right: 0;
+    top: 72px;
+    position: fixed;
 }

@@ -1,0 +1,42 @@
+/* CampaignBanner.css */
+.banner {
+    background-image: url('../../public/images/hero.jpg');
+    /* Replace with your background image path */
+    background-size: cover;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    margin-top: 70px;
+}
+
+.main-text {
+    margin-bottom: 20px;
+}
+
+.campaign-button {
+    background-color: #e91e63;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    cursor: pointer;
+}
+
+.info-sections {
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    /* Optional: Adjust as needed for spacing between sections */
+}
+
+.info-box {
+    background-color: rgba(0, 188, 212, 0.8);
+    /* Adjust background color and transparency */
+    padding: 20px;
+    width: 45%;
+    border-radius: 5px;
+}
+
+.info-box h2 {
+    margin-top: 0;
+}
