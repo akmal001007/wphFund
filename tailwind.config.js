@@ -7,7 +7,7 @@ export default {
         navColor: "#002d41",
         btnColor: "#ce0862",
         card: "#00b2ff",
-        cardTwo: "#009fe4"
+        cardTwo: "#009fe4",
       },
     },
   },
