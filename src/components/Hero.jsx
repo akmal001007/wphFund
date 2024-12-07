@@ -4,7 +4,7 @@ const Hero = () => {
   return (
     <section
       className="relative bg-cover bg-center h-screen"
-      style={{ backgroundImage: "url('../../public/images/hero.jpg')" }}
+      style={{ backgroundImage: `url('../../public/images/hero.jpg')` }}
     >
       <div className="absolute inset-0 bg-black opacity-50"></div>
       <div className="absolute inset-0 clip-path bg-navColor z-0"></div>
